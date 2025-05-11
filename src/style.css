@@ -388,7 +388,7 @@ footer a {
 
   .hero::before {
     content: '';
-    background-image: url("../img/me.svg");
+    background-image: url("../img/logo.png");
     background-size: contain;
     right: 10%;
     top: 25%;
